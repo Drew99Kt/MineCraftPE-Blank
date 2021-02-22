@@ -1,0 +1,537 @@
+2021-02-21 [00:54:48.667] [Server thread/INFO]: Loading server configuration
+2021-02-21 [00:54:48.680] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [00:54:48.680] [Server thread/EMERGENCY]: You are running a PocketMine-MP DEVELOPMENT build, but your configuration does not permit running development builds.
+2021-02-21 [00:54:48.680] [Server thread/EMERGENCY]: Development builds might have unexpected bugs, crash, break your plugins, corrupt all your data and more.
+2021-02-21 [00:54:48.681] [Server thread/EMERGENCY]: Unless you're a developer and know what you're doing, please AVOID using development builds.
+2021-02-21 [00:54:48.681] [Server thread/EMERGENCY]: To use this build anyway, set "settings.enable-dev-builds" to "true" in your pocketmine.yml.
+2021-02-21 [00:54:48.681] [Server thread/EMERGENCY]: To download a stable build instead, visit https://github.com/pmmp/PocketMine-MP/releases.
+2021-02-21 [00:54:48.682] [Server thread/INFO]: Stopping other threads
+2021-02-21 [00:55:09.242] [Server thread/INFO]: Loading server configuration
+2021-02-21 [00:55:09.251] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [00:55:09.251] [Server thread/EMERGENCY]: You are running a PocketMine-MP DEVELOPMENT build, but your configuration does not permit running development builds.
+2021-02-21 [00:55:09.251] [Server thread/EMERGENCY]: Development builds might have unexpected bugs, crash, break your plugins, corrupt all your data and more.
+2021-02-21 [00:55:09.251] [Server thread/EMERGENCY]: Unless you're a developer and know what you're doing, please AVOID using development builds.
+2021-02-21 [00:55:09.251] [Server thread/EMERGENCY]: To use this build anyway, set "settings.enable-dev-builds" to "true" in your pocketmine.yml.
+2021-02-21 [00:55:09.251] [Server thread/EMERGENCY]: To download a stable build instead, visit https://github.com/pmmp/PocketMine-MP/releases.
+2021-02-21 [00:55:09.251] [Server thread/INFO]: Stopping other threads
+2021-02-21 [00:55:16.784] [Server thread/INFO]: Loading server configuration
+2021-02-21 [00:55:16.792] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [00:55:16.793] [Server thread/WARNING]: ----------------------------------------
+2021-02-21 [00:55:16.793] [Server thread/WARNING]: You are running a PocketMine-MP DEVELOPMENT build.
+2021-02-21 [00:55:16.793] [Server thread/WARNING]: The API for this version may not be finalized. Plugins which run on this build may not work on other builds with the same API version.
+2021-02-21 [00:55:16.793] [Server thread/WARNING]: The build may have bugs, crash, corrupt your data, or break your plugins.
+2021-02-21 [00:55:16.793] [Server thread/WARNING]: ----------------------------------------
+2021-02-21 [00:55:16.795] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [00:55:16.798] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [00:55:16.798] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [00:55:16.836] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.0+dev
+2021-02-21 [00:55:16.837] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [00:55:16.986] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [00:55:17.041] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [00:55:17.046] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-02-21 [00:55:17.120] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-02-21 [00:55:17.121] [Server thread/INFO]: [Query Handler] GS4 Query listener running on 0.0.0.0:19132
+2021-02-21 [00:55:17.121] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [00:55:17.121] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [00:55:17.121] [Server thread/INFO]: Done (0.338s)! For help, type "help" or "?"
+2021-02-21 [00:55:57.915] [Server thread/INFO]: Loading server configuration
+2021-02-21 [00:55:57.924] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [00:55:57.924] [Server thread/WARNING]: ----------------------------------------
+2021-02-21 [00:55:57.924] [Server thread/WARNING]: You are running a PocketMine-MP DEVELOPMENT build.
+2021-02-21 [00:55:57.925] [Server thread/WARNING]: The API for this version may not be finalized. Plugins which run on this build may not work on other builds with the same API version.
+2021-02-21 [00:55:57.925] [Server thread/WARNING]: The build may have bugs, crash, corrupt your data, or break your plugins.
+2021-02-21 [00:55:57.925] [Server thread/WARNING]: ----------------------------------------
+2021-02-21 [00:55:57.927] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [00:55:57.930] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [00:55:57.930] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [00:55:57.969] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.0+dev
+2021-02-21 [00:55:57.970] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [00:55:58.120] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [00:55:58.154] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [00:55:58.218] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-02-21 [00:55:58.219] [Server thread/INFO]: [Query Handler] GS4 Query listener running on 0.0.0.0:19132
+2021-02-21 [00:55:58.220] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [00:55:58.220] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [00:55:58.220] [Server thread/INFO]: Done (0.305s)! For help, type "help" or "?"
+2021-02-21 [00:56:54] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [00:56:54] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [00:56:54] [Server thread/INFO]: Loading server properties...
+2021-02-21 [00:56:54] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [00:56:54] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [00:56:54] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [00:56:54] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [00:56:54] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [00:56:54] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [00:56:54] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [00:56:54] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [00:56:54] [Server thread/ERROR]: Could not load world "world": Specified LevelDB world format version (8) is not supported
+2021-02-21 [00:56:54] [Server thread/EMERGENCY]: No default world has been loaded
+2021-02-21 [00:56:55] [Server thread/INFO]: Stopping other threads
+2021-02-21 [00:57:15] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [00:57:15] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [00:57:15] [Server thread/INFO]: Loading server properties...
+2021-02-21 [00:57:15] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [00:57:15] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [00:57:15] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [00:57:15] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [00:57:15] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [00:57:15] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [00:57:15] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [00:57:15] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [00:57:15] [Server thread/NOTICE]: World "world" not found
+2021-02-21 [00:57:15] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [00:57:15] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-02-21 [00:57:15] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [00:57:15] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [00:57:15] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [00:57:15] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [00:57:15] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [00:57:15] [Server thread/INFO]: Done (0.354s)! For help, type "help" or "?"
+2021-02-21 [00:57:42] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [00:57:42] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [00:57:42] [Server thread/INFO]: Loading server properties...
+2021-02-21 [00:57:42] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [00:57:42] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [00:57:42] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [00:57:42] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [00:57:42] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [00:57:42] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [00:57:42] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [00:57:42] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [00:57:43] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [00:57:43] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [00:57:43] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [00:57:43] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [00:57:43] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [00:57:43] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [00:57:43] [Server thread/INFO]: Done (0.322s)! For help, type "help" or "?"
+2021-02-21 [01:01:52] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:01:52] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:01:52] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:01:52] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:01:52] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:01:52] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:01:52] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:01:52] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:01:52] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:01:52] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:01:53] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:01:53] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:01:53] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:01:53] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:01:53] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:01:53] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:01:53] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:01:53] [Server thread/INFO]: Done (0.326s)! For help, type "help" or "?"
+2021-02-21 [01:02:05] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:02:57] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:02:57] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:02:57] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:02:57] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:02:57] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:02:57] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:02:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:02:57] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:02:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:02:57] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:02:58] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:02:58] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:02:58] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:02:58] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:02:58] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:02:58] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:02:58] [Server thread/INFO]: Done (0.313s)! For help, type "help" or "?"
+2021-02-21 [01:03:24] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:03:24] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:03:24] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:03:24] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:03:24] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:03:24] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:03:24] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:03:24] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:03:24] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:03:24] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:03:24] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:03:24] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:03:24] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:03:24] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:03:24] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:03:24] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:03:24] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:03:24] [Server thread/INFO]: Done (0.324s)! For help, type "help" or "?"
+2021-02-21 [01:09:12] [Server thread/INFO]: This server is running PocketMine-MP 3.17.5 for Minecraft: Bedrock Edition v1.16.200 (protocol version 422)
+2021-02-21 [01:10:47] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:10:47] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:10:47] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:10:47] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:10:47] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:10:47] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:10:47] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:10:47] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:10:47] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:10:47] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:10:47] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:10:47] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:10:47] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:10:47] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:10:47] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:10:47] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:10:47] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:10:47] [Server thread/INFO]: Done (0.321s)! For help, type "help" or "?"
+2021-02-21 [01:10:50] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2021-02-21 [01:11:18] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:11:18] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:11:18] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:11:18] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:11:18] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:11:18] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:11:18] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:11:18] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:11:18] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:11:18] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:11:18] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:11:19] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:11:19] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:11:19] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:11:19] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:11:19] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:11:19] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:11:19] [Server thread/INFO]: Done (0.322s)! For help, type "help" or "?"
+2021-02-21 [01:11:48] [Server thread/NOTICE]: Player data not found for "blackmanpimpin", creating new profile
+2021-02-21 [01:11:49] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, 0, 32767, 0)
+2021-02-21 [01:11:51] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:17:15] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:17:15] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:17:15] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:17:15] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:17:15] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:17:15] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:17:15] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:17:15] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:17:15] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:17:15] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:17:15] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:17:15] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:17:15] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:17:15] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:17:15] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:17:15] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:17:15] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:17:15] [Server thread/INFO]: Done (0.333s)! For help, type "help" or "?"
+2021-02-21 [01:17:28] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, -2.3529, 12018.797, 3.9112)
+2021-02-21 [01:17:30] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:17:36] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:17:36] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to client disconnect
+2021-02-21 [01:17:57] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:17:57] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:17:57] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:17:57] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:17:57] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:17:57] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:17:57] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:17:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:17:57] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:17:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:17:57] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:17:57] [Server thread/NOTICE]: World "world" not found
+2021-02-21 [01:17:57] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:17:57] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-02-21 [01:17:57] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:17:57] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:17:57] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:17:57] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:17:57] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:17:57] [Server thread/INFO]: Done (0.317s)! For help, type "help" or "?"
+2021-02-21 [01:18:02] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, -2.3529, 11734.17, 3.9112)
+2021-02-21 [01:18:05] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:18:58] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:18:58] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to client disconnect
+2021-02-21 [01:23:44] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:23:44] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:23:44] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:23:44] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:23:44] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:23:44] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:23:44] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:23:44] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:23:44] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:23:44] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:23:44] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:23:44] [Server thread/ERROR]: Could not load world "world": Specified LevelDB world format version (8) is not supported
+2021-02-21 [01:23:44] [Server thread/EMERGENCY]: No default world has been loaded
+2021-02-21 [01:23:45] [Server thread/INFO]: Stopping other threads
+2021-02-21 [01:24:35] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:24:35] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:24:35] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:24:35] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:24:35] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:24:35] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:24:35] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:24:35] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:24:35] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:24:35] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:24:36] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:24:36] [Server thread/ERROR]: Could not load world "world": Specified LevelDB world format version (8) is not supported
+2021-02-21 [01:24:36] [Server thread/EMERGENCY]: No default world has been loaded
+2021-02-21 [01:24:36] [Server thread/INFO]: Stopping other threads
+2021-02-21 [01:25:20] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:25:20] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:25:20] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:25:20] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:25:20] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:25:20] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:25:20] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:25:20] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:25:20] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:25:20] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:25:21] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:25:21] [Server thread/ERROR]: Could not load world "world": Failed to decompress level.dat contents (probably corrupted)
+2021-02-21 [01:25:21] [Server thread/EMERGENCY]: No default world has been loaded
+2021-02-21 [01:25:21] [Server thread/INFO]: Stopping other threads
+2021-02-21 [01:28:44] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:28:44] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:28:44] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:28:44] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:28:44] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:28:44] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:28:44] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:28:44] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:28:44] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:28:44] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:28:44] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:28:44] [Server thread/NOTICE]: World "world" not found
+2021-02-21 [01:28:44] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:28:44] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-02-21 [01:28:44] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:28:44] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:28:44] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:28:44] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:28:44] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:28:44] [Server thread/INFO]: Done (0.306s)! For help, type "help" or "?"
+2021-02-21 [01:28:48] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, -2.3529, 7778.9152, 3.9112)
+2021-02-21 [01:28:51] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:29:00] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:29:00] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to client disconnect
+2021-02-21 [01:29:34] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 2 at (world, 4.6942, 7279.3966, 7.4798)
+2021-02-21 [01:29:36] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:31:11] [Server thread/INFO]: BlackManPimpin fell from a high place
+2021-02-21 [01:32:16] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:32:16] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:32:16] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:32:16] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:32:16] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:32:16] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:32:16] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:32:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:32:16] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:32:16] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:32:16] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:32:16] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:32:17] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:32:17] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:32:17] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:32:17] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:32:17] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:32:17] [Server thread/INFO]: Done (0.281s)! For help, type "help" or "?"
+2021-02-21 [01:32:22] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, 4.6942, 7279.3966, 7.4798)
+2021-02-21 [01:32:24] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:33:59] [Server thread/INFO]: BlackManPimpin fell from a high place
+2021-02-21 [01:34:39] [Server thread/INFO]: BlackManPimpin died
+2021-02-21 [01:36:47] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2021-02-21 [01:36:47] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2021-02-21 [01:36:47] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2021-02-21 [01:36:47] [Server thread/INFO]: /banlist: View all players banned from this server
+2021-02-21 [01:36:47] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2021-02-21 [01:36:47] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2021-02-21 [01:36:47] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2021-02-21 [01:36:47] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2021-02-21 [01:36:47] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2021-02-21 [01:36:47] [Server thread/INFO]: /enchant: Adds enchantments on items
+2021-02-21 [01:36:47] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2021-02-21 [01:36:47] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2021-02-21 [01:36:47] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2021-02-21 [01:36:47] [Server thread/INFO]: /help: Shows the help menu
+2021-02-21 [01:36:47] [Server thread/INFO]: /kick: Removes the specified player from the server
+2021-02-21 [01:36:47] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2021-02-21 [01:36:47] [Server thread/INFO]: /list: Lists all online players
+2021-02-21 [01:36:47] [Server thread/INFO]: /me: Performs the specified action in chat
+2021-02-21 [01:36:47] [Server thread/INFO]: /op: Gives the specified player operator status
+2021-02-21 [01:36:47] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2021-02-21 [01:36:47] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2021-02-21 [01:36:47] [Server thread/INFO]: /particle: Adds particles to a world
+2021-02-21 [01:36:47] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2021-02-21 [01:36:47] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2021-02-21 [01:36:47] [Server thread/INFO]: /save-all: Saves the server to disk
+2021-02-21 [01:36:47] [Server thread/INFO]: /save-off: Disables server autosaving
+2021-02-21 [01:36:47] [Server thread/INFO]: /save-on: Enables server autosaving
+2021-02-21 [01:36:47] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2021-02-21 [01:36:47] [Server thread/INFO]: /seed: Shows the world seed
+2021-02-21 [01:36:47] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-02-21 [01:36:47] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2021-02-21 [01:36:47] [Server thread/INFO]: /status: Reads back the server's performance.
+2021-02-21 [01:36:47] [Server thread/INFO]: /stop: Stops the server
+2021-02-21 [01:36:47] [Server thread/INFO]: /tell: Sends a private message to the given player
+2021-02-21 [01:36:47] [Server thread/INFO]: /time: Changes the time on each world
+2021-02-21 [01:36:47] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2021-02-21 [01:36:47] [Server thread/INFO]: /title: Controls screen titles
+2021-02-21 [01:36:47] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2021-02-21 [01:36:47] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2021-02-21 [01:36:47] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2021-02-21 [01:36:47] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2021-02-21 [01:37:00] [Server thread/INFO]: [CONSOLE: Opped BlackManPimpin]
+2021-02-21 [01:37:10] [Server thread/INFO]: [BlackManPimpin: Set own game mode to Creative Mode]
+2021-02-21 [01:38:06] [Server thread/INFO]: [BlackManPimpin: Reloading server...]
+2021-02-21 [01:38:06] [Server thread/INFO]: Saving worlds...
+2021-02-21 [01:38:06] [Server thread/INFO]: Reloading properties...
+2021-02-21 [01:38:06] [Server thread/INFO]: [BlackManPimpin: Reload complete.]
+2021-02-21 [01:38:32] [Server thread/INFO]: [BlackManPimpin: Stopping the server]
+2021-02-21 [01:38:32] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:38:32] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to Server closed
+2021-02-21 [01:38:32] [Server thread/INFO]: Unloading world "world"
+2021-02-21 [01:38:33] [Server thread/INFO]: Stopping other threads
+2021-02-21 [01:38:45] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:38:45] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:38:45] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:38:45] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:38:45] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:38:45] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:38:45] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:38:45] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:38:45] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:38:45] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:38:45] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:38:45] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:38:45] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:38:45] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:38:45] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:38:45] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:38:45] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:38:45] [Server thread/INFO]: Done (0.281s)! For help, type "help" or "?"
+2021-02-21 [01:38:50] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, -28.0117, 16318.0353, -85.5942)
+2021-02-21 [01:38:52] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:39:10] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:39:10] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to client disconnect
+2021-02-21 [01:39:19] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:39:19] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:39:19] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:39:19] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:39:19] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:39:19] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:39:19] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:39:19] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:39:19] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:39:19] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:39:20] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:39:20] [Server thread/NOTICE]: World "world" not found
+2021-02-21 [01:39:20] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:39:20] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-02-21 [01:39:20] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:39:20] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:39:20] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:39:20] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:39:20] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:39:20] [Server thread/INFO]: Done (0.329s)! For help, type "help" or "?"
+2021-02-21 [01:39:29] [Server thread/INFO]: [CONSOLE: Opped blackmanpimpin]
+2021-02-21 [01:39:34] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, -9.6116, 15370.8361, -94.0106)
+2021-02-21 [01:39:36] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:39:46] [Server thread/INFO]: [BlackManPimpin: Set own game mode to Creative Mode]
+2021-02-21 [01:41:21] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:41:21] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to client disconnect
+2021-02-21 [01:41:30] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:41:30] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:41:30] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:41:30] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:41:30] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:41:30] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:41:30] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:41:30] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:41:30] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:41:30] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:41:30] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:41:30] [Server thread/NOTICE]: World "world" not found
+2021-02-21 [01:41:30] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:41:30] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-02-21 [01:41:30] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:41:30] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:41:30] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:41:30] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:41:30] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:41:30] [Server thread/INFO]: Done (0.308s)! For help, type "help" or "?"
+2021-02-21 [01:41:33] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, -9.6116, 7350.6222, -94.0106)
+2021-02-21 [01:41:35] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:41:46] [Server thread/INFO]: [BlackManPimpin: Set own game mode to Creative Mode]
+2021-02-21 [01:43:48] [Server thread/INFO]: [BlackManPimpin: Set the world spawn point to (-11, 65, -58)]
+2021-02-21 [01:43:53] [Server thread/INFO]: BlackManPimpin died
+2021-02-21 [01:45:54] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:45:54] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to client disconnect
+2021-02-21 [01:46:03] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:46:03] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:46:03] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:46:03] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:46:03] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:46:03] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:46:03] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:46:03] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:46:03] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:46:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:46:03] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:46:03] [Server thread/INFO]: Preparing world "FactionsSpawnSpace"
+2021-02-21 [01:46:03] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:46:03] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:46:03] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:46:03] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:46:03] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:46:03] [Server thread/INFO]: Done (0.282s)! For help, type "help" or "?"
+2021-02-21 [01:46:14] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (FactionsSpawnSpace, 397, 132, -450)
+2021-02-21 [01:46:16] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:49:03] [Server thread/INFO]: BlackManPimpin fell out of the world
+2021-02-21 [01:49:46] [Server thread/INFO]: <BlackManPimpin> reload
+2021-02-21 [01:49:48] [Server thread/INFO]: [BlackManPimpin: Reloading server...]
+2021-02-21 [01:49:48] [Server thread/INFO]: Saving worlds...
+2021-02-21 [01:49:49] [Server thread/INFO]: Reloading properties...
+2021-02-21 [01:49:49] [Server thread/INFO]: [BlackManPimpin: Reload complete.]
+2021-02-21 [01:49:53] [Server thread/INFO]: [BlackManPimpin: Stopping the server]
+2021-02-21 [01:49:53] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:49:53] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to Server closed
+2021-02-21 [01:49:53] [Server thread/INFO]: Unloading world "FactionsSpawnSpace"
+2021-02-21 [01:49:53] [Server thread/INFO]: Stopping other threads
+2021-02-21 [01:49:56] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:49:56] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:49:56] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:49:56] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:49:56] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:49:56] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:49:56] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:49:56] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:49:56] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:49:56] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:49:56] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:49:56] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:49:56] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:49:56] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:49:56] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:49:56] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:49:56] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:49:56] [Server thread/INFO]: Done (0.28s)! For help, type "help" or "?"
+2021-02-21 [01:50:01] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged in with entity id 1 at (world, 256, 70, 256)
+2021-02-21 [01:50:04] [Server thread/INFO]: BlackManPimpin joined the game
+2021-02-21 [01:53:40] [Server thread/INFO]: BlackManPimpin left the game
+2021-02-21 [01:53:40] [Server thread/INFO]: BlackManPimpin[/127.0.0.1:61828] logged out due to client disconnect
+2021-02-21 [01:57:04] [Server thread/WARNING]: ChunkUtils extension is missing. Anvil-format worlds will experience degraded performance.
+2021-02-21 [01:57:04] [Server thread/INFO]: Loading pocketmine.yml...
+2021-02-21 [01:57:04] [Server thread/INFO]: Loading server properties...
+2021-02-21 [01:57:04] [Server thread/INFO]: Selected English (eng) as the base language
+2021-02-21 [01:57:04] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.200
+2021-02-21 [01:57:04] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-02-21 [01:57:04] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2021-02-21 [01:57:04] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-02-21 [01:57:04] [Server thread/INFO]: This server is running PocketMine-MP version 3.17.5
+2021-02-21 [01:57:04] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-02-21 [01:57:04] [Server thread/INFO]: Loading resource packs...
+2021-02-21 [01:57:04] [Server thread/INFO]: Preparing world "world"
+2021-02-21 [01:57:04] [Server thread/INFO]: Starting GS4 status listener
+2021-02-21 [01:57:04] [Server thread/INFO]: Setting query port to 19132
+2021-02-21 [01:57:04] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-02-21 [01:57:04] [Server thread/INFO]: Default game type: Survival Mode
+2021-02-21 [01:57:04] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-02-21 [01:57:04] [Server thread/INFO]: Done (0.271s)! For help, type "help" or "?"
